@@ -1,0 +1,15 @@
+div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(151, 255, 220);
+}
+
+ul{
+    background-color: rgba(237, 226, 248, 0.651);
+}
+
+button{
+    background-color: rgb(217, 176, 255);
+}
