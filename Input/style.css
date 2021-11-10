@@ -14,5 +14,10 @@ button{
     background-color: rgb(217, 176, 255);
 }
 input{
-    width: 30px;
+    background-color: #ebe0ec;
+    width: 40px;
+    margin: 10px;
+    margin-bottom: 3px;
+    padding-left: 21px;
+}
 }

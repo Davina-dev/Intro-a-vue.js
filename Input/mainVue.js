@@ -26,7 +26,7 @@ const app = new Vue({
         
         ]
         },
-
+//creamos propiedad calculadora que regrese la cantidad de nuestros productos (metodo reduce de js)
         computed: {
             totalProducts(){
                 return this.products.reduce((sum, product)=>{

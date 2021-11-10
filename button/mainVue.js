@@ -27,13 +27,6 @@ const app = new Vue({
         ]
         },
 
-        computed: {
-            totalProducts(){
-                return this.products.reduce((sum, product)=>{
-                    return sum + product.quantity
-                }, 0)
-            }
-        }
         
         });
 
