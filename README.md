@@ -18,7 +18,6 @@ tener conocimientos básicos de:
 * JAVASCRIPT
 
 ## Agradecimientos 🎁
-* Invito a una cerveza 🍺 o un café ☕ virtual a: Sergi, Ceci, Rubén y Marta. 
 * gracias públicamente por pasaros por aquí 🤓.
 
 __________
