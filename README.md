@@ -16,8 +16,7 @@ tener conocimientos básicos de:
 * CSS/SASS
 * JAVASCRIPT
 
-## Agradecimientos 🎁
-* gracias públicamente por pasaros por aquí 🤓.
+
 
 __________
 ⌨️ con ❤️ por [Davina](https://www.linkedin.com/in/davinamedina/) 😊
