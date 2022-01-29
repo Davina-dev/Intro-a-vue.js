@@ -2,11 +2,10 @@
 # ✔ Vue.js 
 
 El proyecto trata de una breve introducción a vue.js creando una página de inventario para productos
-
-                1. hello world 
-                2. list 
-                3. counter
-                4. input
+ 1. hello world 
+ 2. list 
+ 3. counter
+ 4. input
 
  
 ## Pre-requisitos 📋
